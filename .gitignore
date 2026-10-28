@@ -1,0 +1,18 @@
+# IDEs and Editors (VS Code, PhpStorm, etc.)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System Junk Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# PHP Logs and Errors
+*.log
+error_log
+
+# Project Database / Data Files
+# Ignores the actual data file to maintain privacy and avoid sending test issues to GitHub
+/app_help_desk/arquivo.hd
